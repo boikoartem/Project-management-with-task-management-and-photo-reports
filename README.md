@@ -216,7 +216,7 @@ cd project-manager-pipeline
 [Обсуждение](https://t.me/n8n_pipelines/831)
 
 Хотите обсудить новые пайплайны автоматизации, поделиться своими кейсами или получить помощь? Больше примеров автоматизации вы можете найти в репозитории на GitHub или в нашем Telegram-чате "n8n Development | Практика автоматизации и готовые решения". Присоединяйтесь к нашему Telegram-сообществу для живых обсуждений, советов и эксклюзивного контента.  
-[Чат n8n Development](https://datadrivenconstruction.io/wp-content/uploads/2025/07/Чат-8n_development_channel.jpg)
+![Ответ исполнителя](https://datadrivenconstruction.io/wp-content/uploads/2025/07/Чат-8n_development_channel.jpg)
 
 ---
 
