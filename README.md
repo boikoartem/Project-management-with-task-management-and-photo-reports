@@ -1,6 +1,5 @@
-# Менеджер Проекта: Универсальная Система Управления Задачами и Отчётами
+# Менеджмент проекта: универсальная система управления задачами и отчётами
 
-![Логотип проекта](https://img.shields.io/badge/Версия-1.0-blue?style=flat-square&logo=github)  
 ![n8n](https://img.shields.io/badge/Платформа-n8n-orange?style=flat-square) ![Telegram](https://img.shields.io/badge/Интеграция-Telegram-blue?style=flat-square&logo=telegram) ![Google Sheets](https://img.shields.io/badge/Интеграция-Google%20Sheets-green?style=flat-square&logo=google)
 
 Добро пожаловать в репозиторий системы **Менеджер Проекта**! Это универсальный автоматизированный workflow на базе n8n, предназначенный для управления задачами и отчётами в любых отношениях "менеджер-исполнитель". Система использует Telegram-бота как удобный интерфейс для взаимодействия, Google Sheets для хранения данных и автоматических напоминаний о задачах и отчётах.
