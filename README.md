@@ -8,7 +8,7 @@
 - 🤖 **Тестовый  Бот:** [@ProjectDiaryBot](https://t.me/ProjectDiaryBot)  
 - 📊 **Таблица с отчётами:** [Google Sheets](https://docs.google.com/spreadsheets/d/14V795nago6Qt7PpECflnuFSTdTvwo-fWEG_n83wgKug)  
 - 🎥 **Видео демонстрации:** [Смотреть видео](https://t.me/n8n_pipelines/1660)
-- 
+  
 
 
 🚀 **Ключевые преимущества**:
